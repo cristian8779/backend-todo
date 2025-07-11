@@ -105,22 +105,26 @@ Puedes escuchar estos eventos desde el cliente (por ejemplo, en React o Vue) par
 
 🧠 **Importante:** El evento `taskDeleted` solo envía el ID de la tarea eliminada para que puedas quitarla del frontend fácilmente.
 
-📄 Licencia
+## 📄 Licencia
+
 Este proyecto está bajo la licencia ISC (puedes cambiarla a MIT si prefieres).
 
-💡 Ideas futuras
-📧 Verificación de email o recuperación de contraseña
+---
 
-🔍 Filtros y búsqueda de tareas
+## 💡 Ideas futuras
 
-🏷️ Etiquetas o categorías
+📧 Verificación de email o recuperación de contraseña  
+🔍 Filtros y búsqueda de tareas  
+🏷️ Etiquetas o categorías  
+🗃️ Historial o papelera de tareas eliminadas  
+🖥️ Frontend en React o Vue  
 
-🗃️ Historial o papelera de tareas eliminadas
+---
 
-🖥️ Frontend en React o Vue
+## 🤝 Contribuciones
 
-🤝 Contribuciones
 Las contribuciones son bienvenidas. Haz un fork del repo, crea una rama nueva y envía tu PR. ¡Gracias por mejorar este proyecto! 🙌
+
 
 ---
 
